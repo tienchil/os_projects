@@ -1,2 +1,3 @@
 # os_projects
-This repo contains my previous projects in OS.
+This repo contains source codes of my previous projects in OS.
+
